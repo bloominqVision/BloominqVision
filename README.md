@@ -3,8 +3,7 @@
 
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/e7ebd2fd-d2ce-4721-bd1f-4527a9b31c10" alt="Description" width="500">
-
+<img src="https://github.com/user-attachments/assets/068b9c50-1a0f-47d6-b9ec-647e98ead537" alt="Description" width="500">
 
 
 ![](https://komarev.com/ghpvc/?username=AutisticDetective&label=᧔o᧓&color=BEB1EE&labelcolor=BEB1EE)
